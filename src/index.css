@@ -1,13 +1,28 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.game-field {
+  margin: 50px auto;
+  border: 2px ridge darkred;
+  background-color: lightgray;
+  position: relative;
+  width: 400px;
+  height: 400px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.snake-body {
+  border: 1px ridge blueviolet;
+  background-color: blueviolet;
+  /* Position absolute so that the snake can appear on top of everything o the background */
+  position: absolute;
+  width: 4%;
+  height: 4%;
+  z-index: 2;
+}
+
+.food {
+  border: 1px ridge blue;
+  background-color: blue;
+  /* Position absolute so that the food as well as the snake can appear on top of everything o the background */
+  position: absolute;
+  width: 4%;
+  height: 4%;
+  z-index: 1;
 }
