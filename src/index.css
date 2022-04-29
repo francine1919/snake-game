@@ -3,8 +3,8 @@
   border: 2px ridge darkred;
   background-color: lightgray;
   position: relative;
-  width: 400px;
-  height: 400px;
+  width: 600px;
+  height: 500px;
 }
 
 .snake-body {
@@ -12,8 +12,8 @@
   background-color: blueviolet;
   /* Position absolute so that the snake can appear on top of everything o the background */
   position: absolute;
-  width: 4%;
-  height: 4%;
+  width: 2%;
+  height: 2%;
   z-index: 2;
 }
 
@@ -22,7 +22,7 @@
   background-color: blue;
   /* Position absolute so that the food as well as the snake can appear on top of everything o the background */
   position: absolute;
-  width: 4%;
-  height: 4%;
+  width: 2%;
+  height: 2%;
   z-index: 1;
 }
