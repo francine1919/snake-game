@@ -8,6 +8,9 @@
 
 ## :hammer_and_wrench: Construído com
 <h4>ReactJs</h4>
+<h4>Javascript</h4>
+<h4>HTML</h4>
+<h4>CSS</h4>
 
 <h3>Ferramentas utilizadas para criar o projeto:</h3>
 
@@ -39,6 +42,9 @@ Desenvolvedora do projeto
 
 ## :hammer_and_wrench: Built with
 <h4>ReactJs</h4>
+<h4>Javascript</h4>
+<h4>HTML</h4>
+<h4>CSS</h4>
 
 <h3>Tools used:</h3>
 
