@@ -23,5 +23,33 @@ Desenvolvedora do projeto
 - Francine Lima-(https://github.com/francine1919)
 <hr>
 
+&nbsp;
+<h1 align="center">
+   🐍 Snake game
+&nbsp; 
+</h1>
+<h3 align="center">A leisure project built with ReactJs.</h3>
+<hr>
+&nbsp;
+
+## :hammer_and_wrench: Built with
+<h4>ReactJs</h4>
+
+<h3>Tools used:</h3>
+
+<h4> VS Code </h4> 
+<!-- <h4> Styled Components </h4>         -->
+<hr>
+&nbsp;
+
+## :black_nib: Author
+
+Dev
+
+- Francine Lima-(https://github.com/francine1919)
+<hr>
+
+
+
 
 
