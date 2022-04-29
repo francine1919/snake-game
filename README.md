@@ -16,7 +16,7 @@
 <hr>
 &nbsp;
 
-<h2>🔗 Link:</h2>
+<h2>🔗 Link</h2>
 <h4> https://juvenile-quicksand.surge.sh/ </h4>
 <hr>
 &nbsp;
@@ -47,7 +47,7 @@ Desenvolvedora do projeto
 <hr>
 &nbsp;
 
-<h2>🔗 Link:</h2>
+<h2>🔗 Link</h2>
 <h4> https://juvenile-quicksand.surge.sh/ </h4>
 <hr>
 &nbsp;
