@@ -12,7 +12,7 @@
 <h3>Ferramentas utilizadas para criar o projeto:</h3>
 
 <h4> VS Code </h4> 
-<h4> Styled Components </h4>        
+<!-- <h4> Styled Components </h4>         -->
 <hr>
 &nbsp;
 
