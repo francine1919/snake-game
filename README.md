@@ -20,7 +20,7 @@
 &nbsp;
 
 <h2>🔗 Link</h2>
-<h4> https://juvenile-quicksand.surge.sh/ </h4>
+<h4> https://superficial-dolls.surge.sh/ </h4>
 <hr>
 &nbsp;
 
@@ -54,7 +54,7 @@ Desenvolvedora do projeto
 &nbsp;
 
 <h2>🔗 Link</h2>
-<h4> https://juvenile-quicksand.surge.sh/ </h4>
+<h4> https://superficial-dolls.surge.sh/ </h4>
 <hr>
 &nbsp;
 
